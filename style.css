@@ -1,0 +1,39 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+h1 {
+  font-family: verdana;
+  color:blue;
+  broder:green
+}
+h2{
+  color: green;
+  broder: black
+}
+h3 {
+  color:#060113;
+  font-family:Arial;
+}
+h4{
+  color: green;
+  broder: black
+}
+p {
+  border: 2px solid powderblue;
+  font-family:Arial;
+  
+}
+a:link, a:visited {
+  background-color: #38d5f5;
+  color: #080807;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border: 2px solid #b5e7e8;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
